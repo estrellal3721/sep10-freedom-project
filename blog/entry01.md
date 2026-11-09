@@ -10,7 +10,7 @@ Skills
 Some skills I hope to develop through this project are research, critical thinking, communication, and time management. These skills are important for lawyers because they need to understand cases, find information, and explain their arguments clearly.
 Research Skills
 Research is important in law because lawyers need to understand laws, examine evidence, and learn about past cases. For my project, I will practice finding reliable information and taking notes about different legal topics. Since I already enjoy reading about cases and watching documentaries, I think this will be a good opportunity to improve my research skills.
-Critical Thinking
+## Critical Thinking
 Critical thinking is important because lawyers need to look at situations from different perspectives and use evidence to support their arguments. I enjoy solving mysteries and playing games that challenge me to think. Through this project, I want to learn how lawyers analyze cases and figure out the best way to approach different situations.
 Communication
 Communication is another important skill because lawyers need to explain their ideas and defend their arguments. Since I enjoy debating, I think this is a skill I can build on. I want to improve how I express my opinions, listen to different perspectives, and support my arguments with facts.
