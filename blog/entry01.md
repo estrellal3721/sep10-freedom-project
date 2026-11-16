@@ -1,4 +1,4 @@
-## Blog Examples
+## Blog 
 Entry 1: Deciding on My Topic (Law)
 Choosing a Topic
 The topic I chose for my year-long project is law. I have wanted to become a lawyer since the fourth grade, and my interest in law has continued to grow. I enjoy watching documentaries about real cases, reading about them, and learning how they are solved. I also like debating, solving mysteries, and playing mystery games in my free time.
