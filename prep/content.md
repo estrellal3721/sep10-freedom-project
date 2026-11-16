@@ -63,9 +63,42 @@ Topic: **X**
 
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+##### Digital Evidence Forensic Workstation
+* Helps lawyers and investigators examine evidence from computers and phones.
+
+* Can recover deleted files, messages, and digital information.
+
+* Helps find evidence for criminal cases.
+
+* Used in investigations involving cybercrime.
+
+  ##### Electronic Courtroom Evidence Presentation System
+* Allows lawyers to display evidence on courtroom screens.
+
+* Can show photographs, videos, documents, and recordings.
+
+* Helps judges and juries understand complicated evidence.
+
+* Makes courtroom presentations easier.
+ ##### 3D Crime Scene Scanner
+* Uses laser technology to create a 3D model of a crime scene.
+
+* Records the exact positions of objects and evidence.
+
+* Helps lawyers explain what happened at a crime scene.
+
+* Can be used in criminal investigations.
+##### Portable Biometric Fingerprint Scanner
+* Scans fingerprints to help identify individuals.
+
+* Can be used during criminal investigations.
+
+* Helps verify someone's identity.
+
+* Provides digital fingerprint records
+
+
+
 
 ## Part B: possible future technology
 * Idea
