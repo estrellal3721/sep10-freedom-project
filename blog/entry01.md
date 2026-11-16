@@ -1,6 +1,5 @@
 ## Blog 
 Entry 1: Deciding on My Topic (Law)
-Choosing a Topic
 The topic I chose for my year-long project is law. I have wanted to become a lawyer since the fourth grade, and my interest in law has continued to grow. I enjoy watching documentaries about real cases, reading about them, and learning how they are solved. I also like debating, solving mysteries, and playing mystery games in my free time.
 Another reason I am interested in law is that my dad used to be a police officer, which inspired me to learn more about the legal system. I enjoy reading about different laws, how they were created, and how they affect people's lives. I also know that lawyers can make good money, which is another reason I see this as a possible career for my future. I chose this topic because law is something I am passionate about and can imagine myself doing for a living.
 ## Engineering Design Process (EDP)
